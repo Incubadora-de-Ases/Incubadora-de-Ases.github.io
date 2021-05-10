@@ -903,3 +903,25 @@ section.lazy-placeholder:after {
 .cid-sidkfJQgaj .card .card-header a.panel-title h4 .sign {
   padding-right: 1rem;
 }
+.cid-swLfcMbaXy {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-swLfcMbaXy .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-swLfcMbaXy .row {
+  flex-direction: row-reverse;
+}
+.cid-swLfcMbaXy img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-swLfcMbaXy .text-wrapper {
+    padding: 2rem;
+  }
+}
+
