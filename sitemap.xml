@@ -9,29 +9,98 @@
 
 <url>
   <loc>https://incubadoradeases.cl/</loc>
-  <lastmod>2021-01-10T13:47:14+00:00</lastmod>
+  <lastmod>2021-07-01T19:02:51+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://incubadoradeases.cl/index.html</loc>
-  <lastmod>2021-01-10T13:47:14+00:00</lastmod>
+  <lastmod>2021-07-01T19:02:51+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://incubadoradeases.cl/caracter%C3%ADsticas.html</loc>
-  <lastmod>2021-01-10T13:47:14+00:00</lastmod>
+  <lastmod>2021-07-01T19:02:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://incubadoradeases.cl/matr%C3%ADculas</loc>
+  <lastmod>2021-07-01T19:02:51+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://incubadoradeases.cl/trabajos.html</loc>
-  <lastmod>2021-01-10T13:47:14+00:00</lastmod>
+  <lastmod>2021-07-01T19:02:51+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://incubadoradeases.cl/index</loc>
-  <lastmod>2021-01-10T13:47:14+00:00</lastmod>
+  <loc>https://incubadoradeases.cl/caracter%C3%ADsticas</loc>
+  <lastmod>2021-07-01T19:02:51+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-
+<url>
+  <loc>https://incubadoradeases.cl/matr%C3%ADculas.html</loc>
+  <lastmod>2021-07-01T19:02:51+00:00</lastmod>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>https://incubadoradeases.cl/assets/images/Folleto%20Incubadora%20de%20Ases.pdf</loc>
+  <lastmod>2021-07-01T19:02:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://incubadoradeases.cl/index</loc>
+  <lastmod>2021-07-01T19:02:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://incubadoradeases.cl/acerca.html</loc>
+  <lastmod>2021-07-01T19:02:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://incubadoradeases.cl/blog/</loc>
+  <lastmod>2021-06-22T19:13:40+00:00</lastmod>
+  <priority>0.85</priority>
+</url>
+<url>
+  <loc>https://incubadoradeases.cl/blog/about/</loc>
+  <lastmod>2021-06-22T19:13:40+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://incubadoradeases.cl/blog/estudios/</loc>
+  <lastmod>2021-06-22T19:13:40+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://incubadoradeases.cl/blog/homeschooling/</loc>
+  <lastmod>2021-06-22T19:13:40+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://incubadoradeases.cl/blog/en/</loc>
+  <lastmod>2021-06-22T19:13:40+00:00</lastmod>
+  <priority>0.30</priority>
+</url>
+<url>
+  <loc>https://incubadoradeases.cl/blog/tags/</loc>
+  <lastmod>2021-06-22T19:13:40+00:00</lastmod>
+  <priority>0.30</priority>
+</url>
+<url>
+  <loc>https://incubadoradeases.cl/blog/tags/estudios/</loc>
+  <lastmod>2021-06-22T19:13:40+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://incubadoradeases.cl/blog/estudios/como_estudiar/</loc>
+  <lastmod>2021-06-22T19:13:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://incubadoradeases.cl/blog/en/tags/</loc>
+  <lastmod>2021-06-22T19:13:40+00:00</lastmod>
+  <priority>0.24</priority>
+</url>
 
 </urlset>
